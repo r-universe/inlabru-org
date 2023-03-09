@@ -9,5 +9,8 @@
   {
     "package": "excursions",
     "oncran": true
+  },
+  {
+    "package": "INLAspacetime"
   }
 ]

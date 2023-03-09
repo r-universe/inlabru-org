@@ -18,3 +18,8 @@
 	url = https://github.com/davidbolin/excursions
 	shallow = true
 	registered = true
+[submodule "INLAspacetime"]
+	path = INLAspacetime
+	url = https://github.com/eliaskrainski/INLAspacetime
+	shallow = true
+	registered = true
