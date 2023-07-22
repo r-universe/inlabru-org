@@ -1,0 +1,9 @@
+[
+  {
+    "package": "inlabru",
+    "url": "https://github.com/inlabru-org/inlabru",
+    "via": ["fmesher"],
+    "branch": "feature/fmesher",
+    "from": "fmesher"
+  }
+]
