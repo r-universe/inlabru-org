@@ -5,6 +5,9 @@
 [submodule "inlabru"]
 	path = inlabru
 	url = https://github.com/inlabru-org/inlabru
+[submodule "fmesher"]
+	path = fmesher
+	url = https://github.com/inlabru-org/fmesher
 [submodule "dirinla"]
 	path = dirinla
 	url = https://github.com/inlabru-org/dirinla
