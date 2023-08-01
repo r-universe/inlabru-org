@@ -2,18 +2,18 @@
 	path = .registry
 	url = https://github.com/inlabru-org/universe
 	branch = HEAD
-[submodule "inlabru"]
-	path = inlabru
-	url = https://github.com/inlabru-org/inlabru
-[submodule "fmesher"]
-	path = fmesher
-	url = https://github.com/inlabru-org/fmesher
+[submodule "INLAspacetime"]
+	path = INLAspacetime
+	url = https://github.com/eliaskrainski/INLAspacetime
 [submodule "dirinla"]
 	path = dirinla
 	url = https://github.com/inlabru-org/dirinla
 [submodule "excursions"]
 	path = excursions
 	url = https://github.com/davidbolin/excursions
-[submodule "INLAspacetime"]
-	path = INLAspacetime
-	url = https://github.com/eliaskrainski/INLAspacetime
+[submodule "fmesher"]
+	path = fmesher
+	url = https://github.com/inlabru-org/fmesher
+[submodule "inlabru"]
+	path = inlabru
+	url = https://github.com/inlabru-org/inlabru
