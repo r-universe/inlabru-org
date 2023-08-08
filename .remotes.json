@@ -1,5 +1,11 @@
 [
   {
+    "package": "fmesher",
+    "url": "https://github.com/inlabru-org/fmesher",
+    "via": ["inlabru"],
+    "from": "inlabru"
+  },
+  {
     "package": "inlabru",
     "url": "https://github.com/inlabru-org/inlabru",
     "via": ["fmesher"],
