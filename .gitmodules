@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/inlabru-org/universe
+	url = https://github.com/inlabru-org/inlabru-org.r-universe.dev
 	branch = HEAD
 [submodule "INLAspacetime"]
 	path = INLAspacetime
